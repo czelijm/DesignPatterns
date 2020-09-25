@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27c9eeae-d54b-4a76-9153-58a310370510" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DesignPaterns" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hFQX8Ew2kXZTMklSS4Xd40rRpg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/mediator" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="iterator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\mediator" />
+      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\observer" />
+      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\command" />
+      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\template" />
+      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\strategy" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.marekczelij.Main" />
+      <module name="DesignPaterns" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27c9eeae-d54b-4a76-9153-58a310370510" name="Default Changelist" comment="" />
+      <created>1599604397663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599604397663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1600880213876">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1600880213876" />
+    <state width="938" height="295" key="GridCell.Tab.0.bottom" timestamp="1601050278617">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601050278617" />
+    <state width="938" height="295" key="GridCell.Tab.0.center" timestamp="1601050278617">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601050278617" />
+    <state width="938" height="295" key="GridCell.Tab.0.left" timestamp="1601050278616">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601050278616" />
+    <state width="938" height="295" key="GridCell.Tab.0.right" timestamp="1601050278617">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601050278617" />
+    <state width="938" height="363" key="GridCell.Tab.1.bottom" timestamp="1600814601701">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600814601701" />
+    <state width="938" height="363" key="GridCell.Tab.1.center" timestamp="1600814601701">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600814601701" />
+    <state width="938" height="363" key="GridCell.Tab.1.left" timestamp="1600814601700">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600814601700" />
+    <state width="938" height="363" key="GridCell.Tab.1.right" timestamp="1600814601701">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600814601701" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1600810620262">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1600810620262" />
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1601049710951">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601049710951" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1600270612785">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1600270612785" />
+    <state x="552" y="199" key="scopes" timestamp="1600122433708">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="199" key="scopes/0.0.1920.1080@0.0.1920.1080" timestamp="1600122433708" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1600451034485">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1600451034485" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/designpatterns/behavioral/command/RemoveTextCommand.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DesignPaterns$Main.ic" NAME="Main Coverage Results" MODIFIED="1600812641831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
