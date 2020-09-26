@@ -9,5 +9,11 @@ public class TextBox extends UIControl {
 
     public void setContent(String content) {
         this.content = content;
+        notifyObservers();
     }
+
+    protected boolean isEmpty(){
+        return this.content == null || this.content.isEmpty();
+    }
+
 }

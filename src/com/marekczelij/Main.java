@@ -2,6 +2,7 @@ package com.marekczelij;
 
 import designpatterns.behavioral.command.CommandDemo;
 import designpatterns.behavioral.iterator.IteratorDemo;
+import designpatterns.behavioral.mediator.MediatorDemo;
 import designpatterns.behavioral.memento.MementoDemo;
 import designpatterns.behavioral.observer.ObserverDemo;
 import designpatterns.behavioral.state.StateDemo;
@@ -18,5 +19,6 @@ public class Main {
         TemplateDemo.RunDemo();
         CommandDemo.runDemo();
         ObserverDemo.runDemo();
+        MediatorDemo.runDemo();
     }
 }
