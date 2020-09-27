@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c9eeae-d54b-4a76-9153-58a310370510" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/mediator/DialogBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/mediator/MediatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/mediator/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/chainofresponsibilities/ChainOfResponsibilitiesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/chainofresponsibilities/DataFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/chainofresponsibilities/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/chainofresponsibilities/FileTypeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/chainofresponsibilities/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/FactSegment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/FormatSegment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/NoiseReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/Normalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/Reverb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/Segment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/VisitorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/WavFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPaterns/com/marekczelij/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPaterns/com/marekczelij/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/marekczelij/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marekczelij/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/mediator/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/mediator/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/mediator/CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/mediator/CheckBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/mediator/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/mediator/TextBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designpatterns/behavioral/mediator/UIControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/mediator/UIControl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,18 +54,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/mediator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/designpatterns/behavioral/visitor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="iterator" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\designpatterns\behavioral\visitor" />
+      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\designpatterns\behavioral\chainofresponsibilities" />
       <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\mediator" />
       <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\observer" />
       <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\command" />
-      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\template" />
-      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\strategy" />
     </key>
   </component>
   <component name="RunManager">
@@ -104,50 +111,50 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1601079884866">
+    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1601238709980">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601079884866" />
-    <state width="938" height="295" key="GridCell.Tab.0.bottom" timestamp="1601080239859">
+    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601238709980" />
+    <state width="938" height="363" key="GridCell.Tab.0.bottom" timestamp="1601239436231">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601080239859" />
-    <state width="938" height="295" key="GridCell.Tab.0.center" timestamp="1601080239859">
+    <state width="938" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436231" />
+    <state width="938" height="363" key="GridCell.Tab.0.center" timestamp="1601239436231">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601080239859" />
-    <state width="938" height="295" key="GridCell.Tab.0.left" timestamp="1601080239859">
+    <state width="938" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436231" />
+    <state width="938" height="363" key="GridCell.Tab.0.left" timestamp="1601239436230">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601080239859" />
-    <state width="938" height="295" key="GridCell.Tab.0.right" timestamp="1601080239859">
+    <state width="938" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436230" />
+    <state width="938" height="363" key="GridCell.Tab.0.right" timestamp="1601239436231">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601080239859" />
-    <state width="938" height="363" key="GridCell.Tab.1.bottom" timestamp="1600814601701">
+    <state width="938" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436231" />
+    <state width="938" height="363" key="GridCell.Tab.1.bottom" timestamp="1601239436233">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600814601701" />
-    <state width="938" height="363" key="GridCell.Tab.1.center" timestamp="1600814601701">
+    <state width="938" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436233" />
+    <state width="938" height="363" key="GridCell.Tab.1.center" timestamp="1601239436232">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600814601701" />
-    <state width="938" height="363" key="GridCell.Tab.1.left" timestamp="1600814601700">
+    <state width="938" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436232" />
+    <state width="938" height="363" key="GridCell.Tab.1.left" timestamp="1601239436232">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600814601700" />
-    <state width="938" height="363" key="GridCell.Tab.1.right" timestamp="1600814601701">
+    <state width="938" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436232" />
+    <state width="938" height="363" key="GridCell.Tab.1.right" timestamp="1601239436232">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600814601701" />
+    <state width="938" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436232" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1600810620262">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1600810620262" />
-    <state x="656" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1601049710951">
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1601228779199">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601049710951" />
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601228779199" />
     <state x="616" y="250" key="run.anything.popup" timestamp="1600270612785">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -156,18 +163,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="199" key="scopes/0.0.1920.1080@0.0.1920.1080" timestamp="1600122433708" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1601078712721">
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1601229483991">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601078712721" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601229483991" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/designpatterns/behavioral/command/RemoveTextCommand.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/com/marekczelij/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
