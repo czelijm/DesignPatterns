@@ -2,22 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c9eeae-d54b-4a76-9153-58a310370510" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/chainofresponsibilities/ChainOfResponsibilitiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/chainofresponsibilities/DataFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/chainofresponsibilities/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/chainofresponsibilities/FileTypeReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/chainofresponsibilities/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/FactSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/FormatSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/NoiseReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/Normalize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/Reverb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/Segment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/VisitorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/behavioral/visitor/WavFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/adapter/AdapterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/adapter/EmailClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/adapter/EmailProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/adapter/Gmail/GmailClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/adapter/GmailClientProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/composite/CompositeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/composite/HumanResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/composite/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/composite/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/composite/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/decorator/AbstractArtefact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/decorator/ErrorArtefact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/decorator/MainArtefact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/facade/FacadeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/facade/OAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/facade/Tweet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/facade/TweetsReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/facade/TwitterClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/flyweight/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/flyweight/FlyweightDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/flyweight/FontFamilyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/flyweight/FontScheme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/flyweight/FontSchemeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/flyweight/SpreadSheet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DesignPaterns/com/marekczelij/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPaterns/com/marekczelij/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPaterns/designpatterns/behavioral/visitor/VisitorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPaterns/designpatterns/behavioral/visitor/VisitorDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/marekczelij/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marekczelij/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +46,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -54,18 +66,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/designpatterns/behavioral/visitor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/designpatterns/structural/flyweight" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="iterator" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\designpatterns\behavioral\visitor" />
-      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\designpatterns\behavioral\chainofresponsibilities" />
-      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\mediator" />
-      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\observer" />
-      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\command" />
+      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\designpatterns\structural\flyweight" />
+      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\designpatterns\structural\facade" />
+      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\designpatterns\structural\decorator" />
+      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\designpatterns\structural\adapter" />
+      <recent name="C:\WorkingSpace\Projects\IntellijProjects\DesignPaterns\src\designpatterns\structural\composite" />
     </key>
   </component>
   <component name="RunManager">
@@ -111,50 +123,50 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1601238709980">
+    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1601421804343">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601238709980" />
-    <state width="938" height="363" key="GridCell.Tab.0.bottom" timestamp="1601239436231">
+    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601421804343" />
+    <state width="938" height="363" key="GridCell.Tab.0.bottom" timestamp="1601422248399">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436231" />
-    <state width="938" height="363" key="GridCell.Tab.0.center" timestamp="1601239436231">
+    <state width="938" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601422248399" />
+    <state width="938" height="363" key="GridCell.Tab.0.center" timestamp="1601422248399">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436231" />
-    <state width="938" height="363" key="GridCell.Tab.0.left" timestamp="1601239436230">
+    <state width="938" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601422248399" />
+    <state width="938" height="363" key="GridCell.Tab.0.left" timestamp="1601422248399">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436230" />
-    <state width="938" height="363" key="GridCell.Tab.0.right" timestamp="1601239436231">
+    <state width="938" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601422248399" />
+    <state width="938" height="363" key="GridCell.Tab.0.right" timestamp="1601422248399">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436231" />
-    <state width="938" height="363" key="GridCell.Tab.1.bottom" timestamp="1601239436233">
+    <state width="938" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601422248399" />
+    <state width="938" height="363" key="GridCell.Tab.1.bottom" timestamp="1601422248400">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436233" />
-    <state width="938" height="363" key="GridCell.Tab.1.center" timestamp="1601239436232">
+    <state width="938" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601422248400" />
+    <state width="938" height="363" key="GridCell.Tab.1.center" timestamp="1601422248399">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436232" />
-    <state width="938" height="363" key="GridCell.Tab.1.left" timestamp="1601239436232">
+    <state width="938" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601422248399" />
+    <state width="938" height="363" key="GridCell.Tab.1.left" timestamp="1601422248399">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436232" />
-    <state width="938" height="363" key="GridCell.Tab.1.right" timestamp="1601239436232">
+    <state width="938" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601422248399" />
+    <state width="938" height="363" key="GridCell.Tab.1.right" timestamp="1601422248400">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="938" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601239436232" />
+    <state width="938" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601422248400" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1600810620262">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1600810620262" />
-    <state x="656" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1601228779199">
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1601417720565">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601228779199" />
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601417720565" />
     <state x="616" y="250" key="run.anything.popup" timestamp="1600270612785">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -172,9 +184,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/marekczelij/Main.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/src/designpatterns/structural/flyweight/FontSchemeFactory.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

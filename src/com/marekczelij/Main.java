@@ -10,10 +10,21 @@ import designpatterns.behavioral.state.StateDemo;
 import designpatterns.behavioral.strategy.StrategyDemo;
 import designpatterns.behavioral.template.TemplateDemo;
 import designpatterns.behavioral.visitor.VisitorDemo;
+import designpatterns.structural.adapter.AdapterDemo;
+import designpatterns.structural.composite.CompositeDemo;
+import designpatterns.structural.decorator.DecoratorDemo;
+import designpatterns.structural.facade.FacadeDemo;
+import designpatterns.structural.flyweight.FlyweightDemo;
 
 public class Main {
 
     public static void main(String[] args) throws Exception {
+        behavioralPatterns();
+        structuralPatterns();
+    }
+
+    public static void behavioralPatterns() throws Exception {
+        System.out.println("Behavioral patterns==============================");
         MementoDemo.runDemo();
         StateDemo.runDemo();
         IteratorDemo.runDemo();
@@ -24,5 +35,13 @@ public class Main {
         MediatorDemo.runDemo();
         ChainOfResponsibilitiesDemo.runDemo();
         VisitorDemo.runDemo();
+    }
+    public static void structuralPatterns() {
+        System.out.println("Structural patterns==============================");
+        CompositeDemo.runDemo();
+        AdapterDemo.runDemo();
+        DecoratorDemo.runDemo();
+        FacadeDemo.runDemo();
+        FlyweightDemo.runDemo();
     }
 }
