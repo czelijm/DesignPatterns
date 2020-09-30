@@ -11,10 +11,12 @@ import designpatterns.behavioral.strategy.StrategyDemo;
 import designpatterns.behavioral.template.TemplateDemo;
 import designpatterns.behavioral.visitor.VisitorDemo;
 import designpatterns.structural.adapter.AdapterDemo;
+import designpatterns.structural.bridge.BridgeDemo;
 import designpatterns.structural.composite.CompositeDemo;
 import designpatterns.structural.decorator.DecoratorDemo;
 import designpatterns.structural.facade.FacadeDemo;
 import designpatterns.structural.flyweight.FlyweightDemo;
+import designpatterns.structural.proxy.ProxyDemo;
 
 public class Main {
 
@@ -43,5 +45,7 @@ public class Main {
         DecoratorDemo.runDemo();
         FacadeDemo.runDemo();
         FlyweightDemo.runDemo();
+        BridgeDemo.runDemo();
+        ProxyDemo.runDemo();
     }
 }
