@@ -10,6 +10,7 @@ import designpatterns.behavioral.state.StateDemo;
 import designpatterns.behavioral.strategy.StrategyDemo;
 import designpatterns.behavioral.template.TemplateDemo;
 import designpatterns.behavioral.visitor.VisitorDemo;
+import designpatterns.creational.builder.BuilderDemo;
 import designpatterns.structural.adapter.AdapterDemo;
 import designpatterns.structural.bridge.BridgeDemo;
 import designpatterns.structural.composite.CompositeDemo;
@@ -18,11 +19,14 @@ import designpatterns.structural.facade.FacadeDemo;
 import designpatterns.structural.flyweight.FlyweightDemo;
 import designpatterns.structural.proxy.ProxyDemo;
 
+import java.awt.image.BufferedImage;
+
 public class Main {
 
     public static void main(String[] args) throws Exception {
         behavioralPatterns();
         structuralPatterns();
+        creationalPatterns();
     }
 
     public static void behavioralPatterns() throws Exception {
@@ -48,4 +52,9 @@ public class Main {
         BridgeDemo.runDemo();
         ProxyDemo.runDemo();
     }
+    public static void creationalPatterns() {
+        System.out.println("Creational patterns==============================");
+        BuilderDemo.runDemo();
+    }
+
 }

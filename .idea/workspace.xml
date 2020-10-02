@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c9eeae-d54b-4a76-9153-58a310370510" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/bridge/AdvancedRemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/bridge/BridgeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/bridge/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/bridge/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/bridge/SamsungTV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/bridge/SonyTV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/proxy/DbContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/proxy/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/proxy/ProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/proxy/ProxyProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpatterns/structural/proxy/RealProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/creational/builder/BuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/creational/builder/CodeBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/creational/builder/CodeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/creational/builder/CodeField.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DesignPaterns/com/marekczelij/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPaterns/com/marekczelij/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/marekczelij/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/marekczelij/Main.java" afterDir="false" />
@@ -112,26 +105,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1601488553625">
+    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1601647617845">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601488553625" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1601489336180">
+    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601647617845" />
+    <state x="651" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601646828360">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601489336180" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1601489336179">
+    <state x="651" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601646828360" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1601648151832">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601489336179" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1601489336179">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601648151832" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1601648151832">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601489336179" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1601489336179">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601648151832" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1601648151831">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601489336179" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601648151831" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1601648151832">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601648151832" />
     <state width="938" height="363" key="GridCell.Tab.1.bottom" timestamp="1601422248400">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -152,10 +149,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1600810620262" />
-    <state x="656" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1601487506421">
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1601644992856">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601487506421" />
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601644992856" />
     <state x="616" y="250" key="run.anything.popup" timestamp="1600270612785">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
