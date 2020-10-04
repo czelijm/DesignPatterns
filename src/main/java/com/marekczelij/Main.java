@@ -12,6 +12,7 @@ import designpatterns.behavioral.template.TemplateDemo;
 import designpatterns.behavioral.visitor.VisitorDemo;
 import designpatterns.creational.builder.BuilderDemo;
 import designpatterns.creational.factory.FactoryDemo;
+import designpatterns.creational.prtotype.PrototypeDemo;
 import designpatterns.structural.adapter.AdapterDemo;
 import designpatterns.structural.bridge.BridgeDemo;
 import designpatterns.structural.composite.CompositeDemo;
@@ -58,6 +59,7 @@ public class Main {
         System.out.println("Creational patterns==============================");
         BuilderDemo.runDemo();
         FactoryDemo.runDemo();
+        PrototypeDemo.runDemo();
     }
 
 }
