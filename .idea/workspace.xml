@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c9eeae-d54b-4a76-9153-58a310370510" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/creational/prtotype/DeepCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/creational/prtotype/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/creational/prtotype/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/creational/prtotype/PrototypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/creational/singleton/ISingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/creational/singleton/IsSingletonChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/creational/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/creational/singleton/SingletonDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPaterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPaterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/marekczelij/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marekczelij/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/marekczelij/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/marekczelij/Main.class" afterDir="false" />
     </list>
@@ -121,10 +118,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="199" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1601757378439" />
-    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1601829664053">
+    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1601913128590">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601829664053" />
+    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601913128590" />
     <state x="683" y="230" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1601752431192">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -137,22 +134,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="288" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601760549193" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1601830745603">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1601916530074">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601830745603" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1601830745603">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601916530074" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1601916530074">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601830745603" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1601830745603">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601916530074" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1601916530074">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601830745603" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1601830745603">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601916530074" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1601916530074">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601830745603" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601916530074" />
     <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1601761894015">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -181,18 +178,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1600810620262" />
-    <state x="656" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1601827994305">
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1601911610510">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601827994305" />
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601911610510" />
     <state x="664" y="434" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601752566444">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="664" y="434" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1601752566444" />
-    <state x="616" y="250" key="run.anything.popup" timestamp="1601757364466">
+    <state x="616" y="250" key="run.anything.popup" timestamp="1601915308811">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601757364466" />
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601915308811" />
     <state x="552" y="199" key="scopes" timestamp="1600122433708">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
